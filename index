@@ -4,3 +4,6 @@ webcams product:"webcamXP httpd"
 Server: Argos
 /doc/page/login.asp
 port:"9200" product:"Elastic"
+server: camera web server
+"kbn-name"
+"webcam" has_screenshot:true
